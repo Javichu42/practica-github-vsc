@@ -1,1 +1,2 @@
 # practica-github-vsc
+Javier López 11/12/2025
